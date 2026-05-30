@@ -1,0 +1,47 @@
+{
+  "Animales Salvajes": [
+    { "palabra": "Tigre", "pista": "Es un felino a rayas" },
+    { "palabra": "Elefante", "pista": "Tiene una nariz muy larga" },
+    { "palabra": "León", "pista": "El rey de la selva" },
+    { "palabra": "Jirafa", "pista": "Tiene el cuello muy largo" },
+    { "palabra": "Rinoceronte", "pista": "Tiene un cuerno en la cara" },
+    { "palabra": "Cocodrilo", "pista": "Reptil de río muy peligroso" },
+    { "palabra": "Gorila", "pista": "El mono más grande" }
+  ],
+  "Instrumentos Musicales": [
+    { "palabra": "Guitarra", "pista": "Tiene 6 cuerdas" },
+    { "palabra": "Piano", "pista": "Tiene teclas blancas y negras" },
+    { "palabra": "Batería", "pista": "Se toca con baquetas" },
+    { "palabra": "Violín", "pista": "Se toca con un arco" },
+    { "palabra": "Trompeta", "pista": "Es de viento metal" },
+    { "palabra": "Flauta", "pista": "Instrumento de viento madera" },
+    { "palabra": "Saxofón", "pista": "Muy usado en el jazz" }
+  ],
+  "Profesiones": [
+    { "palabra": "Médico", "pista": "Cura a las personas" },
+    { "palabra": "Bombero", "pista": "Apaga fuegos" },
+    { "palabra": "Policía", "pista": "Atrapa a los malos" },
+    { "palabra": "Profesor", "pista": "Da clases" },
+    { "palabra": "Astronauta", "pista": "Viaja al espacio" },
+    { "palabra": "Abogado", "pista": "Defiende en los juicios" },
+    { "palabra": "Cocinero", "pista": "Prepara la comida" }
+  ],
+  "Deportes": [
+    { "palabra": "Fútbol", "pista": "Se juega con los pies" },
+    { "palabra": "Baloncesto", "pista": "Hay que encestar la pelota" },
+    { "palabra": "Tenis", "pista": "Se juega con raqueta" },
+    { "palabra": "Natación", "pista": "Se hace en el agua" },
+    { "palabra": "Boxeo", "pista": "Se usan guantes grandes" },
+    { "palabra": "Ciclismo", "pista": "Se va sobre dos ruedas" },
+    { "palabra": "Voleibol", "pista": "Pelota por encima de la red" }
+  ],
+  "Comida Rápida": [
+    { "palabra": "Hamburguesa", "pista": "Carne entre dos panes" },
+    { "palabra": "Pizza", "pista": "Viene en caja cuadrada pero es redonda" },
+    { "palabra": "Perrito Caliente", "pista": "Salchicha en pan alargado" },
+    { "palabra": "Tacos", "pista": "Comida típica mexicana" },
+    { "palabra": "Kebab", "pista": "Carne en rollo giratorio" },
+    { "palabra": "Burrito", "pista": "Enrollado mexicano" },
+    { "palabra": "Patatas Fritas", "pista": "Acompañan a casi todo" }
+  ]
+}
